@@ -1,3 +1,5 @@
+# 안녕하세요 👋 분석하고 검증하는 보안 엔지니어 엄민송입니다.
+
 ## Introduction 💬
 - 🔭 I’m currently majoring in Mathematics, Information Security and Cryptography & Software Engineering
 - 🌱 I’m currently studying Security
@@ -58,6 +60,7 @@
 💡 아래 이미지를 클릭하면 유튜브로 이동합니다.
 [![KERNEL 시연영상](http://img.youtube.com/vi/ulA5jGVImjA/maxresdefault.jpg)](https://youtu.be/ulA5jGVImjA)
 
+
 ### 2. (Team) 미리살핌: AI 사기범과 대화하는 금융사기 모의훈련 서비스 (2026.07 ~ 2026.09)
 
 > 프로젝트 주제: 생성형 AI 기반 보이스피싱·스미싱 대응 훈련 및 취약점 진단
@@ -76,6 +79,7 @@
 1. 프론트엔드 전담 (약 15개 화면 설계·구현)
 2. 사용자 플로우 및 추천 알고리즘 설계
 3. 백엔드 API 엔드포인트 연동
+
 
 ### 3. (Team) KIOSK-DFIR: 무인 키오스크·POS 침해사고 재현 및 sLLM 기반 DFIR 자동화 (2026.07 ~ 2026.09)
 
@@ -100,7 +104,8 @@
 4. 11단계 공격 시나리오 설계 · KISA 침해사고 대응 7단계 프로세스 설계
 5. 최종 발표자료 제작 및 발표
    
-### 4. (Personal) 5G-AKA 인증 프로토콜 취약점 분석 및 개선 (2023)
+
+### 4. (Personal) 5G-AKA 인증 프로토콜 취약점 분석 및 개선 (2023.11)
 
 > 프로젝트 주제: 정형 검증 도구 기반 인증 프로토콜 취약점 분석 및 개선 프로토콜 제안
 
@@ -119,7 +124,8 @@
 **Security & Analysis**
 
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-
+![Tetragon](https://img.shields.io/badge/Tetragon-F0A30A?style=flat-square)
+![Hubble](https://img.shields.io/badge/Hubble-F0A30A?style=flat-square)
 
 **Infra & Cloud**
 
@@ -148,4 +154,4 @@
 ## Contact 📮
 각 프로젝트의 상세 내용은 포트폴리오에 정리해두었습니다.
 공개 범위를 조정하고 있어 링크를 따로 걸지 않았으니, 메일 주시면 보내드리겠습니다.
-[![Email](https://img.shields.io/badge/djaalsthd@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:djaalsthd@naver.com)
+Mail: djaalsthd@naver.com
