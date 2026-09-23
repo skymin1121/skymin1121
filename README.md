@@ -1,4 +1,4 @@
-# 안녕하세요 👋 분석하고 검증하는 보안 엔지니어 엄민송입니다.
+# 안녕하세요. 분석하고 검증하는 보안 엔지니어 엄민송입니다.🐥
 
 ## Introduction 💬
 - 🔭 I’m currently majoring in Mathematics, Information Security and Cryptography & Software Engineering
@@ -79,6 +79,12 @@
 1. 프론트엔드 전담 (약 15개 화면 설계·구현)
 2. 사용자 플로우 및 추천 알고리즘 설계
 3. 백엔드 API 엔드포인트 연동
+
+**About This Project**
+
+[https://github.com/2026-finance-ai-challenge-team-1234/mirisalpim-web](https://github.com/2026-finance-ai-challenge-team-1234/mirisalpim-web)
+
+팀 통합 레포지토리입니다. 프론트엔드는 `frontend/` 폴더에서 확인하실 수 있습니다.
 
 
 ### 3. (Team) KIOSK-DFIR: 무인 키오스크·POS 침해사고 재현 및 sLLM 기반 DFIR 자동화 (2026.07 ~ 2026.09)
