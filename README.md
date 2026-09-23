@@ -1,5 +1,3 @@
-# 안녕하세요 👋 분석하고 검증하는 보안 엔지니어 엄민송입니다.
-
 ## Introduction 💬
 - 🔭 I’m currently majoring in Mathematics, Information Security and Cryptography & Software Engineering
 - 🌱 I’m currently studying Security
@@ -53,8 +51,12 @@
 1. 탐지·분석 프레임워크 설계 및 고도화
 2. eBPF 도구 비교·선정 및 로그 수집 파이프라인 구축 (Fluentd → OpenSearch / ClickHouse)
 3. OpenSearch 탐지·알림 전담, AWS(EC2·S3) 인프라 운영
-4. 룰 기반 지식 기반 탐지 및 baseline 기반 이상 탐지 구조 설계
+4. 지식 기반(sigma rule) 탐지 및 baseline 기반 이상 탐지 구조 설계
 5. 마일스톤·시드 기반 상관분석 및 교차 검증 구조 설계
+
+**시연영상 링크**
+💡 아래 이미지를 클릭하면 유튜브로 이동합니다.
+[![KERNEL 시연영상](http://img.youtube.com/vi/ulA5jGVImjA/maxresdefault.jpg)](https://youtu.be/ulA5jGVImjA)
 
 ### 2. (Team) 미리살핌: AI 사기범과 대화하는 금융사기 모의훈련 서비스 (2026.07 ~ 2026.09)
 
@@ -144,4 +146,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
  
 ## Contact 📮
+각 프로젝트의 상세 내용은 포트폴리오에 정리해두었습니다.
+공개 범위를 조정하고 있어 링크를 따로 걸지 않았으니, 메일 주시면 보내드리겠습니다.
 [![Email](https://img.shields.io/badge/djaalsthd@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:djaalsthd@naver.com)
