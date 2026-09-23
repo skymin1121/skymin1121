@@ -158,6 +158,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
  
 ## Contact 📮
-각 프로젝트의 상세 내용은 포트폴리오에 정리해두었습니다.
-공개 범위를 조정하고 있어 링크를 따로 걸지 않았으니, 메일 주시면 보내드리겠습니다.
-Mail: djaalsthd@naver.com
+- 각 프로젝트의 상세 내용은 포트폴리오에 정리해두었습니다.
+- 공개 범위를 조정하고 있어 링크를 따로 걸지 않았으니, 메일 주시면 보내드리겠습니다.
+- Mail: djaalsthd@naver.com
